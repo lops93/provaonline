@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2d9f877-26e9-4ea5-9b10-1204f95ce196" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/inserirquestao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insertquestion.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../VoucherSeguro/app/code/local/Olegnax/Megamenu/Block/Megamenu.php" beforeDir="false" afterPath="$PROJECT_DIR$/../VoucherSeguro/app/code/local/Olegnax/Megamenu/Block/Megamenu.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../VoucherSeguro/app/code/local/Voucherseguro/Customize/Block/Pagarme/Form/Cc.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../VoucherSeguro/app/code/local/Voucherseguro/Customize/etc/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VoucherSeguro/app/code/local/Voucherseguro/Customize/etc/config.xml" afterDir="false" />
@@ -15,6 +17,10 @@
       <change beforePath="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/layout/local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/layout/local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../VoucherSeguro/js/voucherseguro/admin_product_page_custom.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../VoucherSeguro/skin/frontend/base/default/olegnax_osc/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../VoucherSeguro/skin/frontend/base/default/olegnax_osc/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/questoes.php" beforeDir="false" afterPath="$PROJECT_DIR$/questoes.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,11 +39,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/questoes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="5" selection-start-line="5" selection-end-line="107" selection-end-column="6" />
+            <state relative-caret-position="119">
+              <caret line="7" column="95" selection-start-line="7" selection-start-column="95" selection-end-line="7" selection-end-column="95" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inserirquestao.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="539">
+              <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/insertquestion.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="63" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -62,7 +86,9 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/olegnax_osc/form/address.phtml">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-153" />
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -88,7 +114,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../VoucherSeguro" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -96,7 +122,6 @@
         <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/olegnax/product/view/lightbox.phtml" />
         <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/olegnax/product/view/tabelaimg.phtml" />
         <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/grouped-options/grouped.phtml" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/../VoucherSeguro/skin/frontend/athlete/default/css/styles.css" />
         <option value="$PROJECT_DIR$/../VoucherSeguro/skin/frontend/base/default/olegnax_osc/css/style.css" />
         <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/olegnax_osc/onestepcheckout.phtml" />
@@ -105,6 +130,9 @@
         <option value="$PROJECT_DIR$/page/menu.php" />
         <option value="$PROJECT_DIR$/page/header.html" />
         <option value="$PROJECT_DIR$/questoes.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/inserirquestao.php" />
+        <option value="$PROJECT_DIR$/insertquestion.php" />
       </list>
     </option>
   </component>
@@ -351,12 +379,12 @@
       <option name="presentableId" value="Default" />
       <updated>1562329670317</updated>
       <workItem from="1562329671692" duration="2165000" />
-      <workItem from="1562333835272" duration="16548000" />
+      <workItem from="1562333835272" duration="19320000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18713000" />
+    <option name="totallyTimeSpent" value="21485000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -453,25 +481,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2057">
-          <caret line="121" selection-start-line="121" selection-end-line="121" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../VoucherSeguro/skin/frontend/base/default/olegnax_osc/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="1278" column="69" selection-start-line="1278" selection-start-column="69" selection-end-line="1278" selection-end-column="69" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/olegnax_osc/form/shipping_method.phtml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/olegnax_osc/form/address.phtml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/questao.php">
       <provider selected="true" editor-type-id="text-editor" />
@@ -480,13 +495,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="40" selection-start-line="2" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/metodos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
@@ -523,10 +531,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3179">
+          <caret line="187" column="22" lean-forward="true" selection-start-line="187" selection-start-column="22" selection-end-line="187" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/questoes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="5" selection-start-line="5" selection-end-line="107" selection-end-column="6" />
+        <state relative-caret-position="119">
+          <caret line="7" column="95" selection-start-line="7" selection-start-column="95" selection-end-line="7" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/olegnax_osc/form/shipping_method.phtml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/olegnax_osc/form/address.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Twitter_Clone-master/inclui_tweet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metodos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inserirquestao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insertquestion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="63" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
         </state>
       </provider>
     </entry>
