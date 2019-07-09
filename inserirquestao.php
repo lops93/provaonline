@@ -1,4 +1,4 @@
-<?php include ('metodos.php') ?>
+<?php include('db.php') ?>
 <?php include ('page/header.html') ?>
     <body>
 <?php include ('page/menu.php') ?>
@@ -29,6 +29,14 @@
         <div class="form-field col-lg-12">
             <input id="res5" name="res5"class="input-text js-input" type="text" >
             <label class="label" for="res5">Resposta 5</label>
+        </div>
+        <div class="form-field col-lg-12">
+            <input id="questaocerta" name="questaocerta"class="input-text js-input" type="text" >
+            <label class="label" for="questaocerta">Questão Correta: </label>
+        </div>
+        <div class="form-field col-lg-12">
+            <input id="categoria" name="categoria"class="input-text js-input" type="text" >
+            <label class="label" for="categoria">Categoria: </label>
         </div>
         <div class="form-field col-lg-12">
             <input class="submit-btn" type="submit" value="Submit">

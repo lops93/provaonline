@@ -1,31 +1,25 @@
 <?php
-class db {
-//host
-    private $host = 'localhost';
-//usuario
-    private $usuario = 'root';
-//senha
-    private $senha = '';
-//banco de dados
-    private $database = 'provaonline';
+$objDb = new db();
+$link = $objDb->conecta_mysql();
 
-    public function conecta_mysql(){
+$sql = ("SELECT * FROM questoes ") or die("erro");
+$resultado_id = mysqli_query($link, $sql);
 
-        //criar a conexao
-        $con = mysqli_connect($this->host, $this->usuario, $this->senha, $this->database);
+if($resultado_id) {
 
-        //ajustar o charset de comunicação entre a aplicação e o banco de dados
-        mysqli_set_charset($con, 'utf8');
+    while ($registro = mysqli_fetch_array($resultado_id, MYSQLI_ASSOC)) {
+        $id = $registro['id'];
+        $questao = nl2br($registro['pergunta']);
+        $r1 = $registro['questao1'];
+        $r2 = $registro['questao2'];
+        $r3 = $registro['questao3'];
+        $r4 = $registro['questao4'];
+        $r5 = $registro['questao5'];
+        $questaocerta = $registro['questaocerta'];
 
-        //verficar se houve erro de conexão
-        if(mysqli_connect_errno()){
-            echo 'Erro ao tentar se conectar com o BD MySQL: '.mysqli_connect_error();
-        }
-
-        return $con;
     }
 
 }
+
+
 ?>
-
-
