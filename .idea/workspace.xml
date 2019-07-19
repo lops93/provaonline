@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2d9f877-26e9-4ea5-9b10-1204f95ce196" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/tax/checkout/discount.phtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/tax/checkout/grandtotal.phtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/tax/checkout/shipping.phtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/tax/checkout/tax.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/checkout/cart.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/checkout/cart.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/checkout/onepage/link.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/checkout/onepage/link.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/tax/checkout/subtotal.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/tax/checkout/subtotal.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VoucherSeguro/skin/frontend/athlete/default/css/local.css" beforeDir="false" afterPath="$PROJECT_DIR$/../VoucherSeguro/skin/frontend/athlete/default/css/local.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/provaonline.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/provaonline.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inserirquestao.php" beforeDir="false" afterPath="$PROJECT_DIR$/inserirquestao.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/insertquestion.php" beforeDir="false" afterPath="$PROJECT_DIR$/insertquestion.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/metodos.php" beforeDir="false" afterPath="$PROJECT_DIR$/metodos.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/questoes.php" beforeDir="false" afterPath="$PROJECT_DIR$/questoes.php" afterDir="false" />
     </list>
@@ -18,10 +25,70 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/questoes.php">
+        <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/checkout/cart.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="54" column="1774" selection-start-line="54" selection-start-column="1774" selection-end-line="54" selection-end-column="1774" />
+            <state relative-caret-position="-510">
+              <caret line="47" column="36" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+              <folding>
+                <element signature="e#978#1047#0#PHP" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../VoucherSeguro/skin/frontend/athlete/default/css/local.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-39749">
+              <caret line="1060" column="46" selection-start-line="1060" selection-start-column="46" selection-end-line="1060" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/checkout/onepage/link.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/checkout/cart/item/default.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-918">
+              <caret line="84" column="29" selection-start-line="84" selection-start-column="29" selection-end-line="84" selection-end-column="29" />
+              <folding>
+                <element signature="e#6#968#0#PHP" expanded="true" />
+                <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#tr#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#1;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../VoucherSeguro/skin/frontend/athlete/default/css/grid.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1">
+              <caret line="527" column="42" selection-start-line="527" selection-start-column="42" selection-end-line="527" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/metodos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -38,63 +105,103 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>$horario</find>
-      <find>produto</find>
-      <find>col</find>
-      <find>criar</find>
-      <find>form-control</find>
-      <find>input-text</find>
-      <find>modal</find>
-      <find>login</find>
-      <find>b cla</find>
-      <find>tipo</find>
-      <find>0.4</find>
+      <find>tabe</find>
+      <find>block</find>
+      <find>d-md</find>
+      <find>indispo</find>
+      <find>indis</find>
+      <find>horar</find>
+      <find>horario</find>
+      <find>foreach</find>
+      <find>sku</find>
+      <find>processado</find>
+      <find>processa</find>
+      <find>hr</find>
+      <find>hr&gt;</find>
+      <find>order_ite</find>
+      <find>view</find>
+      <find>cartprice</find>
+      <find>$ite</find>
+      <find>getItemHtml</find>
+      <find>html</find>
+      <find>send</find>
+      <find>getCustomItems()</find>
+      <find>getItems()</find>
+      <find>checkout/cart/item/default.phtml</find>
+      <find>img</find>
+      <find>butt</find>
+      <find>input-bo</find>
+      <find>user</find>
+      <find>cart_item_renderer</find>
+      <find>item</find>
+      <find>&lt;tr cla</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../VoucherSeguro" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/olegnax/product/view/lightbox.phtml" />
-        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/olegnax/product/view/tabelaimg.phtml" />
-        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/grouped-options/grouped.phtml" />
-        <option value="$PROJECT_DIR$/../VoucherSeguro/skin/frontend/athlete/default/css/styles.css" />
-        <option value="$PROJECT_DIR$/../VoucherSeguro/skin/frontend/base/default/olegnax_osc/css/style.css" />
-        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/olegnax_osc/onestepcheckout.phtml" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/page/menu.php" />
-        <option value="$PROJECT_DIR$/page/header.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/checkout/cart/header.phtml" />
-        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/customer/widget/name.phtml" />
-        <option value="$PROJECT_DIR$/inserirquestao.php" />
-        <option value="$PROJECT_DIR$/insertquestion.php" />
-        <option value="$PROJECT_DIR$/../Twitter_Clone-master/home.php" />
-        <option value="$PROJECT_DIR$/../Poker-master/index.php" />
-        <option value="$PROJECT_DIR$/../Twitter_Clone-master/index.php" />
-        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/olegnax/megamenu/top.phtml" />
-        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/customer/form/register.phtml" />
-        <option value="$PROJECT_DIR$/../VoucherSeguro/skin/frontend/athlete/default/css/local.css" />
         <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/persistent/customer/form/register.phtml" />
-        <option value="$PROJECT_DIR$/metodos.php" />
-        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/checkout/cart/item/default.phtml" />
         <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/layout/reports.xml" />
         <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/layout/local.xml" />
-        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/page/html/header.phtml" />
-        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/catalogsearch/result.phtml" />
         <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/catalog/layer/view.phtml" />
         <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/catalog/layer/filter.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/skin/frontend/base/default/olegnax_osc/css/style.css" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/olegnax_osc/onestepcheckout.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/olegnax_osc/appearance.phtml" />
+        <option value="$PROJECT_DIR$/../laravelrotas/routes/web.php" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/olegnax/product/view/lightbox.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/locale/pt_BR/Mage_Catalog.csv" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/checkout/success.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/contacts/form.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/page/html/header.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/skin/frontend/athlete/default/css/options_base_voucherseguro.css" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/catalogsearch/form.mini.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/customer/logout.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/catalogsearch/result.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/checkout/cart/noItems.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/olegnax/slideshow/athlete.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/layout/newsletter.xml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/page/html/pager.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/customer/account/navigation.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/olegnax/ajaxcart/catalog/product/view.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/grouped-options/grouped.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/sales/order/info.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/sales/order/titleitems.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/code/core/Mage/Sales/Block/Order/Titleview.php" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/base/default/layout/sales.xml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/sales/order/ordertitle.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/skin/frontend/athlete/default/css/styles.css" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/sales/order/items/renderer/title.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/checkout/cart/item/default_bkp_17-07-2019.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/layout/checkout.xml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/customer/form/login.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/persistent/customer/form/login.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/catalog/product/product_galery.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/checkout/cartdetails.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/sales/order/items/renderer/default.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/sales/order/history.phtml" />
         <option value="$PROJECT_DIR$/questoes.php" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/skin/frontend/athlete/default/css/grid.css" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/checkout/cart/item/default.phtml" />
+        <option value="$PROJECT_DIR$/metodos.php" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/tax/checkout/tax.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/tax/checkout/subtotal.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/tax/checkout/grandtotal.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/tax/checkout/shipping.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/skin/frontend/athlete/default/css/local.css" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/checkout/cart.phtml" />
+        <option value="$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/checkout/onepage/link.phtml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+    <option name="x" value="101" />
+    <option name="y" value="440" />
+    <option name="width" value="1160" />
+    <option name="height" value="720" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -102,7 +209,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,16 +259,6 @@
               <item name="frontend" type="462c0819:PsiDirectoryNode" />
               <item name="athlete" type="462c0819:PsiDirectoryNode" />
               <item name="default" type="462c0819:PsiDirectoryNode" />
-              <item name="layout" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="provaonline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VoucherSeguro" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="athlete" type="462c0819:PsiDirectoryNode" />
-              <item name="default" type="462c0819:PsiDirectoryNode" />
               <item name="template" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -174,7 +270,7 @@
               <item name="athlete" type="462c0819:PsiDirectoryNode" />
               <item name="default" type="462c0819:PsiDirectoryNode" />
               <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="catalog" type="462c0819:PsiDirectoryNode" />
+              <item name="checkout" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="provaonline" type="b2602c69:ProjectViewProjectNode" />
@@ -185,8 +281,7 @@
               <item name="athlete" type="462c0819:PsiDirectoryNode" />
               <item name="default" type="462c0819:PsiDirectoryNode" />
               <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="catalog" type="462c0819:PsiDirectoryNode" />
-              <item name="layer" type="462c0819:PsiDirectoryNode" />
+              <item name="tax" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="provaonline" type="b2602c69:ProjectViewProjectNode" />
@@ -197,53 +292,8 @@
               <item name="athlete" type="462c0819:PsiDirectoryNode" />
               <item name="default" type="462c0819:PsiDirectoryNode" />
               <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="catalogsearch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="provaonline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VoucherSeguro" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="athlete" type="462c0819:PsiDirectoryNode" />
-              <item name="default" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="olegnax" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="provaonline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VoucherSeguro" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="athlete" type="462c0819:PsiDirectoryNode" />
-              <item name="default" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="olegnax" type="462c0819:PsiDirectoryNode" />
-              <item name="megamenu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="provaonline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VoucherSeguro" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="athlete" type="462c0819:PsiDirectoryNode" />
-              <item name="default" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="provaonline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VoucherSeguro" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="athlete" type="462c0819:PsiDirectoryNode" />
-              <item name="default" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
-              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="tax" type="462c0819:PsiDirectoryNode" />
+              <item name="checkout" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="provaonline" type="b2602c69:ProjectViewProjectNode" />
@@ -281,7 +331,7 @@
               <item name="base" type="462c0819:PsiDirectoryNode" />
               <item name="default" type="462c0819:PsiDirectoryNode" />
               <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="catalog" type="462c0819:PsiDirectoryNode" />
+              <item name="tax" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="provaonline" type="b2602c69:ProjectViewProjectNode" />
@@ -292,29 +342,67 @@
               <item name="base" type="462c0819:PsiDirectoryNode" />
               <item name="default" type="462c0819:PsiDirectoryNode" />
               <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="catalog" type="462c0819:PsiDirectoryNode" />
-              <item name="layer" type="462c0819:PsiDirectoryNode" />
+              <item name="tax" type="462c0819:PsiDirectoryNode" />
+              <item name="checkout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="provaonline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VoucherSeguro" type="462c0819:PsiDirectoryNode" />
+              <item name="skin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="provaonline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VoucherSeguro" type="462c0819:PsiDirectoryNode" />
+              <item name="skin" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="provaonline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VoucherSeguro" type="462c0819:PsiDirectoryNode" />
+              <item name="skin" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="athlete" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="provaonline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VoucherSeguro" type="462c0819:PsiDirectoryNode" />
+              <item name="skin" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="athlete" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="provaonline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VoucherSeguro" type="462c0819:PsiDirectoryNode" />
+              <item name="skin" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="athlete" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../VoucherSeguro" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laravelrotas" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\VoucherSeguro\app\design\frontend\athlete\default\template\catalog\layer" />
-      <recent name="C:\xampp\htdocs\VoucherSeguro\app\design\frontend\athlete\default\layout" />
-      <recent name="C:\xampp\htdocs\VoucherSeguro\app\design\frontend\athlete\default\template\catalogsearch" />
-      <recent name="C:\xampp\htdocs\VoucherSeguro\app\design\frontend\athlete\default\template\customer" />
+      <recent name="C:\xampp\htdocs\VoucherSeguro\app\design\frontend\athlete\default\template\tax\checkout" />
+      <recent name="C:\xampp\htdocs\VoucherSeguro\app\design\frontend\athlete\default\template\checkout\cart\item" />
+      <recent name="C:\xampp\htdocs\VoucherSeguro\app\code\core\Mage\Sales\Block\Order" />
+      <recent name="C:\xampp\htdocs\VoucherSeguro\app\design\frontend\athlete\default\template\sales\order" />
+      <recent name="C:\xampp\htdocs\VoucherSeguro\app\design\frontend\athlete\default\template\sales" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -343,22 +431,30 @@
       <workItem from="1562333835272" duration="19612000" />
       <workItem from="1562587236782" duration="17742000" />
       <workItem from="1562673493935" duration="6928000" />
-      <workItem from="1562682757753" duration="17231000" />
+      <workItem from="1562682757753" duration="17568000" />
+      <workItem from="1562765592119" duration="17990000" />
+      <workItem from="1562847113322" duration="17396000" />
+      <workItem from="1562933713296" duration="10184000" />
+      <workItem from="1563191464253" duration="16010000" />
+      <workItem from="1563279436338" duration="15462000" />
+      <workItem from="1563364792272" duration="20684000" />
+      <workItem from="1563452618086" duration="26013000" />
+      <workItem from="1563539828997" duration="20616000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63678000" />
+    <option name="totallyTimeSpent" value="208370000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33221477" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24765101" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.52691215" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -366,7 +462,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.04249292" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.04249292" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
@@ -380,355 +476,355 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/skin/frontend/base/default/olegnax_osc/css/style.css">
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/checkout/cart/item/default_bkp_17-07-2019.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="1278" column="69" selection-start-line="1278" selection-start-column="69" selection-end-line="1278" selection-end-column="69" />
+        <state relative-caret-position="-544">
+          <caret line="249" column="12" selection-start-line="249" selection-start-column="12" selection-end-line="249" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/code/core/Mage/Checkout/Block/Onepage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-175" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/code/core/Mage/Checkout/Block/Links.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/code/core/Mage/Sales/Block/Items/Abstract.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="115" column="20" selection-start-line="115" selection-start-column="20" selection-end-line="115" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/code/core/Mage/Adminhtml/Block/Sales/Order/View/Tab/Info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="83" column="20" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/code/core/Mage/Adminhtml/Block/Sales/Order/Shipment/Create/Form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="92" column="20" selection-start-line="92" selection-start-column="20" selection-end-line="92" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/code/core/Mage/Checkout/Block/Multishipping/Overview.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="270" column="20" selection-start-line="270" selection-start-column="20" selection-end-line="270" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/code/core/Mage/Adminhtml/Block/Sales/Items/Abstract.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="185" column="20" selection-start-line="185" selection-start-column="20" selection-end-line="185" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/code/core/Mage/Checkout/Block/Cart/Abstract.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="170" column="20" selection-start-line="170" selection-start-column="20" selection-end-line="170" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/code/core/Mage/Checkout/Block/Cart/Minicart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238">
+          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding>
+            <element signature="e#6#961#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/code/core/Mage/Checkout/Block/Cart/Sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3966" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/sales/order/view.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding>
+            <element signature="e#6#968#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/customer/form/login.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-101">
+          <caret line="63" column="61" selection-start-line="63" selection-start-column="61" selection-end-line="63" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/code/core/Mage/Checkout/Block/Cart/Item/Renderer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3184">
+          <caret line="276" column="5" lean-forward="true" selection-start-line="276" selection-start-column="5" selection-end-line="276" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/code/core/Mage/Checkout/Helper/Cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2164" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/persistent/customer/form/login.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="63" column="103" selection-start-line="63" selection-start-column="103" selection-end-line="63" selection-end-column="103" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#form#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/code/core/Mage/Checkout/Model/Cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9420" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/code/core/Mage/Sales/Model/Quote/Item.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5168">
+          <caret line="370" column="5" lean-forward="true" selection-start-line="370" selection-start-column="5" selection-end-line="370" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/code/core/Mage/Checkout/Block/Cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="187" column="43" selection-start-line="187" selection-start-column="43" selection-end-line="187" selection-end-column="43" />
+          <folding>
+            <element signature="e#6#961#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/base/default/template/checkout/cart/render/default.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/catalog/product/products_list.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-612" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/catalog/product/products_galery.phtml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/catalog/product/product_galery.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="191" column="63" lean-forward="true" selection-start-line="191" selection-start-column="63" selection-end-line="191" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/olegnax/product/view/lightbox.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="47" column="79" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/checkout/cartdetails.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/etc/local.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-991" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/etc/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-663" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/grouped-options/grouped.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="89" column="67" selection-start-line="89" selection-start-column="50" selection-end-line="89" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/sales/order/items/renderer/default.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="28" column="80" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/sales/order/history.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="58" column="11" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
+          <folding>
+            <element signature="n#style#0;n#b#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/layout/checkout.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="272" column="91" selection-start-line="272" selection-start-column="91" selection-end-line="272" selection-end-column="91" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/questao.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/olegnax_osc/onestepcheckout.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="217" column="44" selection-start-line="217" selection-start-column="44" selection-end-line="217" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/code/local/Olegnax/Osc/Helper/Data.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1377" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Twitter_Clone-master/inclui_tweet.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="14" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="22" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/olegnax_osc/form/address.phtml">
+    <entry file="file://$PROJECT_DIR$/../PHP/Funcoes/funcoes.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/olegnax_osc/form/shipping_method.phtml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/skin/frontend/athlete/default/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/../PHP/Funcoes/funcoes_basicas.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2748">
-          <caret line="314" column="30" selection-start-line="314" selection-start-column="30" selection-end-line="314" selection-end-column="30" />
+        <state relative-caret-position="-2">
+          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/../PHP/Funcoes/outras_funcoes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-end-line="1" />
+        <state relative-caret-position="355">
+          <caret line="26" column="8" lean-forward="true" selection-start-line="24" selection-end-line="31" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page/menu.php">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/block.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="69" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="71" />
+        <state relative-caret-position="227">
+          <caret line="248" column="16" selection-start-line="248" selection-start-column="16" selection-end-line="248" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/../Twitter_Clone/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="15" selection-end-column="11" />
+        <state relative-caret-position="-1481" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/questoes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/customer/widget/dob.phtml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/customer/widget/name.phtml">
+    <entry file="file://$PROJECT_DIR$/../Twitter_Clone/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="67" column="168" selection-start-line="67" selection-start-column="168" selection-end-line="67" selection-end-column="168" />
+        <state relative-caret-position="-1122" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Twitter_Clone/get_tweet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/customer/account/navigation.phtml">
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/skin/frontend/athlete/default/css/grid.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="32" column="107" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/customer/form/edit.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-408" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/locale/pt_BR/translate.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/olegnax/slideshow/athlete.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="193" selection-start-line="193" selection-end-line="209" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Twitter_Clone-master/db.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ASCSolutions/contato.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1158">
-          <caret line="101" column="20" selection-start-line="96" selection-end-line="109" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Twitter_Clone-master/registra_usuario.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inserirquestao.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="34" column="70" selection-start-line="34" selection-start-column="70" selection-end-line="34" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ASCSolutions/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="367" column="21" selection-start-line="367" selection-start-column="21" selection-end-line="367" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ASCSolutions/envia.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="852">
-          <caret line="293" column="22" lean-forward="true" selection-start-line="277" selection-end-line="306" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/insertquestion.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
-          <folding>
-            <element signature="e#633#649#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Twitter_Clone-master/get_tweet.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="80" lean-forward="true" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Poker-master/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1362">
-          <caret line="119" column="31" lean-forward="true" selection-start-line="119" selection-start-column="31" selection-end-line="119" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Twitter_Clone-master/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1479">
-          <caret line="90" column="33" lean-forward="true" selection-start-line="90" selection-start-column="33" selection-end-line="90" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Twitter_Clone-master/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="101" column="28" selection-start-line="101" selection-start-column="28" selection-end-line="101" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/customer/form/register.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="614">
-          <caret line="239" selection-start-line="239" selection-end-line="239" />
-          <folding>
-            <element signature="e#6#968#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/skin/frontend/athlete/default/css/local.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-303">
-          <caret line="1170" column="18" selection-start-line="1170" selection-start-column="18" selection-end-line="1170" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/checkout/cart/header.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="730">
-          <caret line="58" column="7" lean-forward="true" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/persistent/customer/form/register.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="321" selection-start-line="321" selection-end-line="321" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="1">
+          <caret line="527" column="42" selection-start-line="527" selection-start-column="42" selection-end-line="527" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/metodos.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="510">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/olegnax/ajaxcart/catalog/product/view.phtml">
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/tax/checkout/tax.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="147" column="82" selection-start-line="147" selection-start-column="78" selection-end-line="147" selection-end-column="82" />
+        <state relative-caret-position="1003">
+          <caret line="82" column="22" lean-forward="true" selection-start-line="82" selection-start-column="22" selection-end-line="82" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#td#1;n#tr#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#2;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/checkout/cart.phtml">
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/tax/checkout/subtotal.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/grouped-options/grouped.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1275">
-          <caret line="89" column="76" selection-start-line="89" selection-start-column="39" selection-end-line="89" selection-end-column="77" />
+        <state relative-caret-position="369">
+          <caret line="49" column="55" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/base/default/template/page/template/container.phtml">
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/tax/checkout/discount.phtml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/base/default/template/newsletter/subscribe.phtml">
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/tax/checkout/grandtotal.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-238">
-          <caret line="1" column="3" selection-start-line="1" selection-end-line="1" selection-end-column="3" />
-          <folding>
-            <element signature="e#6#968#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="459">
+          <caret line="50" column="55" selection-start-line="50" selection-start-column="55" selection-end-line="50" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/page/2columns-left.phtml">
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/tax/checkout/shipping.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-511">
-          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
-          <folding>
-            <element signature="e#978#1022#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="301">
+          <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/layout/reports.xml">
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/skin/frontend/athlete/default/css/local.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="32" column="167" selection-start-line="32" selection-start-column="167" selection-end-line="32" selection-end-column="167" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/layout/local.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/olegnax/megamenu/left.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="161" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="161" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/olegnax/megamenu/top.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="220" column="311" selection-start-line="220" selection-start-column="308" selection-end-line="220" selection-end-column="311" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/page/html/header.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="301" column="78" selection-start-line="301" selection-start-column="78" selection-end-line="301" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/catalogsearch/result.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/catalog/layer/view.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/catalog/layer/filter.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="52" column="24" lean-forward="true" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+        <state relative-caret-position="-39749">
+          <caret line="1060" column="46" selection-start-line="1060" selection-start-column="46" selection-end-line="1060" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/checkout/cart/item/default.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4489">
-          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        <state relative-caret-position="-918">
+          <caret line="84" column="29" selection-start-line="84" selection-start-column="29" selection-end-line="84" selection-end-column="29" />
+          <folding>
+            <element signature="e#6#968#0#PHP" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#1;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/questoes.php">
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/checkout/onepage/link.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="54" column="1774" selection-start-line="54" selection-start-column="1774" selection-end-line="54" selection-end-column="1774" />
+        <state relative-caret-position="442">
+          <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VoucherSeguro/app/design/frontend/athlete/default/template/checkout/cart.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510">
+          <caret line="47" column="36" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+          <folding>
+            <element signature="e#978#1047#0#PHP" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
